@@ -1,0 +1,61 @@
+How to Develop 12 Vuforia Augmented Reality Apps in 2 hours!
+https://www.skillshare.com/classes/How-to-Develop-12-Vuforia-Augmented-Reality-Apps-in-2-hours/1664713776/projects?via=search-layout-grid
+
+Google Daydream: Virtual Reality Development with Unity 3D 2018.2
+https://www.skillshare.com/classes/Google-Daydream-Virtual-Reality-Development-with-Unity-3D-2018-2/120573346/projects?via=search-layout-grid
+
+HTML for beginners - website development for anyone
+https://www.skillshare.com/classes/HTML-for-beginners-website-development-for-anyone/972761069/projects?via=user-profile
+
+3D Printing
+https://www.skillshare.com/search?query=3D%20Printing&searchMethod=autocomplete
+
+Coding
+https://www.skillshare.com/search?query=Coding
+
+https://community.spiceworks.com/how_to/123751-change-the-default-path-in-the-command-prompt
+current start in for command prompt %HOMEDRIVE%%HOMEPATH% changed to C:\Users\decho\OneDrive\Desktop
+
+installing telnet starwars
+https://digitalinsect.com/how-to-watch-ascii-star-wars-in-windows-10-command-prompt/
+
+https://beebom.com/command-prompt-tricks-to-know/
+Video Walkthrough and Tricks:
+
+1. Encrypt Files
+2. Change CMD color
+3. Change prompt text
+4. Change title of the Window
+5. Watch Star Wars in ASCII
+6. Create WiFi Hotspot
+7. Hide Folders Attrib +h +s +r Important  Attrib -h -s -r Important
+8. Copy Command Output to Clipboard
+9. List all installed programs
+10. Open a CMD window in a directory
+
+https://www.youtube.com/watch?v=Ol6wijs5uHg  18 CMD Tips, Tricks and Hacks | CMD Tutorial for Beginners | Command Prompt | Windows 7/8/8.1/10
+Jump to your required command:
+0:17 Open CMD in any folder directly
+0:45 Create a secured folder md folder rd folder
+1:55 Hide any folder
+3:09 Shutdown your computer using CMD shutdown -s -l -r  /t 50 countdown
+4:28 Customise command prompt window
+6:13 Create a WiFi hotspot
+7:45 Clear your command prompt screen
+8:10 Get a list of all installed programs
+8:45 Copy (and save) CMD output
+9:32 Useful CMD shortcuts
+10:05 Check whether you are running CMD as admin
+10:23 Check your IP address & other network details
+10:48 Sorted list of all files & folders
+11:32 Open a web page using CMD
+11:51 Get the IP address of any website
+12:11 Get the list of all running processes
+12:46 Run CMD as admin (new way)
+13:23 Change the system time
+
+
+
+
+https://www.yodot.com/blog/can-opening-zip-file-give-virus
+zip files which are unsafe WinZip consider the file type that could harm your computer as “Potentially Unsafe File Types”. Here, EXE refers to potentially unsafe file type. Some of the other examples include, ADE, ADP, APP, ASA, ASP, BAS, BAT, CER, CHM, CMD, COM, CPL, CRT, CSH, DLL, EXE, FXP, HLP, HTA, HTM, HTML, HTR, INF, INS, ISP, ITS, JS, JSE, KSH, LNK, MAD, MAF, MAG, MAM, MAQ, MAR, MAS, MAT, MAU, MAV, MAW, MDA, MDB, MDE, MDT, MDW, MDZ, MHT, MHTM, MHTML, etc.
